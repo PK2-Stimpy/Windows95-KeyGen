@@ -7,7 +7,6 @@
 #include <vector>
 #include "Header.h"
 #define MAX_KEYS 10000
-#define DISCORD_ENABLE false
 
 int KEYS_TO_GENERATE = 10;
 
